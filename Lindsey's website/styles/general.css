@@ -1,0 +1,10 @@
+p {
+    font-family: 'Source Serif 4';
+}
+
+button {
+    border: none;
+    padding: 10px 15px 10px 15px;
+    background-color: white;
+    font-family: 'Source Serif 4';
+}
